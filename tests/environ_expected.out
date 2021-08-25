@@ -1,0 +1,11 @@
+text/html
+localhost
+X11
+gzip
+127.0.0.1
+8070
+GET
+/cgibin/environ.py?id=20&name=testname
+127.0.0.1
+8070
+id=20&name=testname
